@@ -1,0 +1,3 @@
+=> DONT DELETE THIS FILE <=
+this file is used only to check if the client have inernet connection
+if the client fetched this file successfully that means it is connected
